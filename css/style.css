@@ -6,6 +6,10 @@ body {
   background-color: rgb(183, 243, 219);
   font-family: MarkPro,Helvetica,Arial,sans-serif !important;
 }
+.col-md-4 img {
+width: 200px;
+}
+
 .logo-2 {
   filter: drop-shadow(2px 5px 8px #373737);
   padding-top: 15px;
